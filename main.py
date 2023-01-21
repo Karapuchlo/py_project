@@ -1,5 +1,6 @@
 from funcs import Summ, Deff
 
+
 Summ(5, 10)
 Deff(10, 3)
 
